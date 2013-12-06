@@ -1,4 +1,4 @@
-UiA-prosjekter
+lab3
 ==============
 
 Lab3
